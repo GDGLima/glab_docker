@@ -5,7 +5,7 @@ Glab Docker  &amp; GDG Lima
 
 ### Requisitos :
 
-- Dependiendo del sistema operativo y las carteristicas de tu PC , instala el docker o docker toolbox
+- Instalar  docker o docker toolbox dependiendo de las características de tu SO.
 
 - Docker [https://docs.docker.com/engine/installation/](https://docs.docker.com/engine/installation/) o Docker ToolBox [https://www.docker.com/products/docker-toolbox](https://www.docker.com/products/docker-toolbox)
 - OS Linux, OSX, Windows
