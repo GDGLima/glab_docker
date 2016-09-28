@@ -15,8 +15,18 @@ Glab Docker  &amp; GDG Lima
 
 ### Glab :
 
-- En proceso
+#### Lab 01:
+- Intro a Docker
+- Images
+- Containers
+- Port forwarding
+- Volumes
+- Linking
+- Extender un image con Dockerfile
+- Docker compose
 
+
+#### Lab 02:
 
 
 ### Referencia :
